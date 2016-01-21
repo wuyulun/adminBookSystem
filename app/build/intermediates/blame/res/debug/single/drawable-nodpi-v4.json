@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/adv4.jpg",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/drawable-nodpi/adv4.jpg"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/adv1.png",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/drawable-nodpi/adv1.png"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/adv3.png",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/drawable-nodpi/adv3.png"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/adv2.png",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/drawable-nodpi/adv2.png"
+    }
+]

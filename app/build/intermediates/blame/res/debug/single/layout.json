@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/lose.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/lose.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/bookmanagement_selectbook.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/bookmanagement_selectbook.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/fee_detailed_grid.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/fee_detailed_grid.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/fee.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/fee.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/self_query_info.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/self_query_info.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/dialog_date_input.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/dialog_date_input.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/adminmanagement_mofidy.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/adminmanagement_mofidy.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/adminmanagement_add.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/adminmanagement_add.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/bookmanagement_insertbook_xianshi.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/bookmanagement_insertbook_xianshi.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/bookmanagement_deletebook_xianshi.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/bookmanagement_deletebook_xianshi.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/studentmanagementmofidy.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/studentmanagementmofidy.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/grid_main.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/grid_main.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/fee_grid_row.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/fee_grid_row.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/studentmanagementmain.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/studentmanagementmain.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/detials.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/detials.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/gridview.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/gridview.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/lose_details_info.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/lose_details_info.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/studentmanagementadd.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/studentmanagementadd.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/yuyue.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/yuyue.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/adminmanagementmain.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/adminmanagementmain.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/yuyuedetailed.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/yuyuedetailed.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/fee_xianshi.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/fee_xianshi.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/details_grid_row.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/details_grid_row.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/loseinfo.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/loseinfo.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/aboutview.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/aboutview.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/adminmanagement_selectadmin.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/adminmanagement_selectadmin.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/bookmanagement.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/bookmanagement.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/grid_row.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/grid_row.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/lose_grid_row.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/lose_grid_row.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/helpview.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/helpview.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/studentmanagementselect.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/studentmanagementselect.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/bookmanagement_modifybook_xianshi.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/bookmanagement_modifybook_xianshi.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/bookmanagementmain.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/bookmanagementmain.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/self_or_query.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/self_or_query.xml"
+    },
+    {
+        "merged": "/Users/wuyulun/Downloads/adminBookSystem/app/build/intermediates/res/merged/debug/layout/query.xml",
+        "source": "/Users/wuyulun/Downloads/adminBookSystem/app/src/main/res/layout/query.xml"
+    }
+]
